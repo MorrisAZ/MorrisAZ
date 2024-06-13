@@ -1,4 +1,4 @@
-<h1>Hi, I'm Morris! <br/><a href="https://github.com/joshmadakor1">Programmer:</a><a href="https://www.linkedin.com/in/joshmadakor/">Software Engineering Artificial Intelligence</a></h1>
+<h1>Hi, I'm Morris! <br/><a href="https://github.com/MorrisAZ">Programmer:</a><a href="www.linkedin.com/in/morris-zuniga">Software Engineering Artificial Intelligence</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -23,10 +23,10 @@
 <h2> 🤳 Connect with me:</h2>
 
 
-[twitter]: https://twitter.com/
+
 [youtube]: https://www.youtube.com/c/
-[instagram]: https://www.instagram.com/
-[linkedin]: https://linkedin.com/in/
+
+[linkedin]: www.linkedin.com/in/morris-zuniga
 
 
 
