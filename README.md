@@ -6,7 +6,7 @@
  
 - <b>Full MEAN Stack Web App (MongoDB, Express, Angular, NodeJS Components)</b>
 
-- <b>Supervised Learning</b>
+
 
 - <b>C# (.NET Desktop Applications)</b>
  
