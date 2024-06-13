@@ -20,13 +20,9 @@
 
 
 
-<h2> 🤳 Connect with me:</h2>
 
 
 
-[youtube]: https://www.youtube.com/c/
-
-[linkedin]: www.linkedin.com/in/morris-zuniga
 
 
 
